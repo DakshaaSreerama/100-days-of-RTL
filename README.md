@@ -1,18 +1,21 @@
-# 100 Days of RTL Coding 🚀
+# 100 Days of RTL Coding
 
 This repository documents my **100-day RTL coding challenge** focused on building strong
-**front-end VLSI and digital design fundamentals** using **Verilog/SystemVerilog**.
+**VLSI and digital design and Verification fundamentals** using **Verilog and SystemVerilog**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Develop strong RTL design skills
-- Write synthesizable and optimized Verilog/SystemVerilog
-- Build clean and reusable testbenches
-- Prepare for **VLSI internships, placements, and GATE**
+- Write synthesizable and optimized Verilog codes
+- Verify the design using clean and reusable testbenches
 
 ---
 
-## 🛠 Tools & Technologies
-- Verilog / SystemVerilog
-- Vivado 
+## Tools Used
+- Vivado
+
+## Languages
+-Verilog
+-System verilog
+
